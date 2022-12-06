@@ -1,3 +1,6 @@
 Hi this is a sample text file for git tutirial
 just checking
 
+editting hello after changing head to ferature
+
+
