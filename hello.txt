@@ -1,1 +1,3 @@
 Hi this is a sample text file for git tutirial
+just checking
+
